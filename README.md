@@ -65,7 +65,7 @@ Goals for c interop:
 
 ## Roc Lang
 
-Roc is the high level language that we want to use for "official" support is Roc.
+Roc is the high level language that we want to use for "official" support.
 - It's aiming to be as fast as Go in both speed and compilation.
 - It natively allows for hot reload and code push.
 - It's being built for the server so you can use this for both frontend and backend.
