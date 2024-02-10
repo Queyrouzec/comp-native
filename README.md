@@ -63,9 +63,9 @@ Goals for c interop:
 5. It should be easy to turn off and on assertions, production, and dev builds in Zig.
 6. It should be easy to add your own Zig code.
 
-## Roc
+## Roc Lang
 
-The high level language that we want to use for "official" support is Roc.
+Roc is the high level language that we want to use for "official" support is Roc.
 - It's aiming to be as fast as Go in both speed and compilation.
 - It natively allows for hot reload and code push.
 - It's being built for the server so you can use this for both frontend and backend.
